@@ -1,0 +1,2758 @@
+{
+  "modulos": {
+    "A": {
+      "niveles": {
+        "-100": [
+          {
+            "codigo": "-1-A-01",
+            "nombre": "CELDA #1"
+          },
+          {
+            "codigo": "-1-A-02",
+            "nombre": "CELDA #2"
+          },
+          {
+            "codigo": "-1-A-03",
+            "nombre": "SANITARIO TIPO 1"
+          },
+          {
+            "codigo": "-1-A-04",
+            "nombre": "ASEO #7"
+          },
+          {
+            "codigo": "-1-A-05",
+            "nombre": "PASILLO DE CELDAS #1 (ADULTOS)"
+          },
+          {
+            "codigo": "-1-A-06",
+            "nombre": "PASILLO DE CELDAS #2 (ADULTOS)"
+          },
+          {
+            "codigo": "-1-A-07",
+            "nombre": "CELDA #3"
+          },
+          {
+            "codigo": "-1-A-08",
+            "nombre": "CELDA #4"
+          },
+          {
+            "codigo": "-1-A-09",
+            "nombre": "SANITARIO TIPO 1"
+          },
+          {
+            "codigo": "-1-A-10",
+            "nombre": "MANT. #8"
+          },
+          {
+            "codigo": "-1-A-11",
+            "nombre": "CUSTODIO"
+          },
+          {
+            "codigo": "-1-A-18",
+            "nombre": "CIRCULACIÓN DE DETENIDOS"
+          }
+        ],
+        "000": [
+          {
+            "codigo": "0-A-01",
+            "nombre": "PASILLO DE CELDAS #5 (CELDAS DE ADOLESCENTES)"
+          },
+          {
+            "codigo": "0-A-02",
+            "nombre": "CELDAS #11"
+          },
+          {
+            "codigo": "0-A-03",
+            "nombre": "CELDAS #12"
+          },
+          {
+            "codigo": "0-A-04",
+            "nombre": "CELDAS #13"
+          },
+          {
+            "codigo": "0-A-05",
+            "nombre": "CELDAS #14"
+          },
+          {
+            "codigo": "0-A-06",
+            "nombre": "SANITARIO TIPO 1"
+          },
+          {
+            "codigo": "0-A-07",
+            "nombre": "PUESTO DE SEGURIDAD"
+          },
+          {
+            "codigo": "0-A-08",
+            "nombre": "SANITARIO TIPO 1"
+          },
+          {
+            "codigo": "0-A-09",
+            "nombre": "CUARTO DE A/A #1"
+          },
+          {
+            "codigo": "0-A-10",
+            "nombre": "VESTÍBULO #1"
+          },
+          {
+            "codigo": "0-A-11",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-12",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-13",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-14",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-15",
+            "nombre": "DEPÓSITO/SISTEMAS ESPECIALES #1"
+          },
+          {
+            "codigo": "0-A-16",
+            "nombre": "CUARTO ELÉCTRICO #1"
+          },
+          {
+            "codigo": "0-A-17",
+            "nombre": "CUARTO DE A/A #2"
+          },
+          {
+            "codigo": "0-A-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "0-A-19",
+            "nombre": "SALA DE ESPERA #1"
+          },
+          {
+            "codigo": "0-A-20",
+            "nombre": "RECEPCIÓN #1"
+          },
+          {
+            "codigo": "0-A-21",
+            "nombre": "VESTÍBULO #2"
+          },
+          {
+            "codigo": "0-A-22",
+            "nombre": "DEPÓSITO #1"
+          },
+          {
+            "codigo": "0-A-23",
+            "nombre": "SANITARIO DE NIÑOS TIPO 4"
+          },
+          {
+            "codigo": "0-A-24",
+            "nombre": "SANITARIO TIPO 4"
+          },
+          {
+            "codigo": "0-A-25",
+            "nombre": "SANITARIO DE NIÑOS TIPO 4"
+          },
+          {
+            "codigo": "0-A-26",
+            "nombre": "DIRECTOR"
+          },
+          {
+            "codigo": "0-A-27",
+            "nombre": "COCINETA #1"
+          },
+          {
+            "codigo": "0-A-28",
+            "nombre": "ENFERMERÍA"
+          },
+          {
+            "codigo": "0-A-29",
+            "nombre": "COMEDOR"
+          },
+          {
+            "codigo": "0-A-30",
+            "nombre": "AULA/TALLER"
+          },
+          {
+            "codigo": "0-A-31",
+            "nombre": "AULA/TALLER"
+          },
+          {
+            "codigo": "0-A-32",
+            "nombre": "AULA/TALLER"
+          },
+          {
+            "codigo": "0-A-33",
+            "nombre": "SALÓN DE ESTAR"
+          },
+          {
+            "codigo": "0-A-34",
+            "nombre": "VESTIDORES"
+          },
+          {
+            "codigo": "0-A-35",
+            "nombre": "SANITARIO TIPO 5"
+          },
+          {
+            "codigo": "0-A-36",
+            "nombre": "VESTIDORES"
+          },
+          {
+            "codigo": "0-A-37",
+            "nombre": "SANITARIO TIPO 5"
+          },
+          {
+            "codigo": "0-A-38",
+            "nombre": "GIMNASIO"
+          },
+          {
+            "codigo": "0-A-39",
+            "nombre": "CIRCULACIÓN DE SALA DE AUDIENCIAS"
+          },
+          {
+            "codigo": "0-A-40",
+            "nombre": "SALA DE AUDIENCIA #1"
+          },
+          {
+            "codigo": "0-A-41",
+            "nombre": "CELDAS #15"
+          },
+          {
+            "codigo": "0-A-42",
+            "nombre": "CELDAS #16"
+          },
+          {
+            "codigo": "0-A-43",
+            "nombre": "SANIT. TIPO 3"
+          },
+          {
+            "codigo": "0-A-44",
+            "nombre": "DEPÓSITO/MANT. #1"
+          },
+          {
+            "codigo": "0-A-45",
+            "nombre": "SALA DE AUDIENCIA #2"
+          },
+          {
+            "codigo": "0-A-46",
+            "nombre": "SALA DE AUDIENCIA #3"
+          },
+          {
+            "codigo": "0-A-47",
+            "nombre": "CELDA #17"
+          },
+          {
+            "codigo": "0-A-48",
+            "nombre": "CELDA #18"
+          },
+          {
+            "codigo": "0-A-49",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "0-A-50",
+            "nombre": "DEPÓSITO/MANT. #2"
+          },
+          {
+            "codigo": "0-A-51",
+            "nombre": "SALA DE AUDIENCIA #4"
+          },
+          {
+            "codigo": "0-A-52",
+            "nombre": "EVIDENCIAS #1"
+          },
+          {
+            "codigo": "0-A-53",
+            "nombre": "SALA DE AUDIENCIA #4"
+          },
+          {
+            "codigo": "0-A-54",
+            "nombre": "EVIDENCIAS #2"
+          },
+          {
+            "codigo": "0-A-55",
+            "nombre": "JUZGADO SEGUNDO CIVIL #1"
+          },
+          {
+            "codigo": "0-A-56",
+            "nombre": "COCINETA #2"
+          },
+          {
+            "codigo": "0-A-57",
+            "nombre": "EVIDENCIAS #3"
+          },
+          {
+            "codigo": "0-A-58",
+            "nombre": "JUZGADO PRIMERO CIVIL #2"
+          },
+          {
+            "codigo": "0-A-59",
+            "nombre": "EVIDENCIAS #4"
+          },
+          {
+            "codigo": "0-A-60",
+            "nombre": "JUZGADO SEGUNDO MUNICIPAL CIVIL #3"
+          },
+          {
+            "codigo": "0-A-61",
+            "nombre": "(No name visible en el plano)"
+          },
+          {
+            "codigo": "0-A-62",
+            "nombre": "MANT. #3"
+          },
+          {
+            "codigo": "0-A-63",
+            "nombre": "MANT. #4"
+          },
+          {
+            "codigo": "0-A-64",
+            "nombre": "JUZGADO PRIMERO MUNICIPAL CIVIL #4"
+          },
+          {
+            "codigo": "0-A-65",
+            "nombre": "COCINETA #3"
+          },
+          {
+            "codigo": "0-A-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "0-A-67",
+            "nombre": "SALA DE ESPERA #2"
+          },
+          {
+            "codigo": "0-A-68",
+            "nombre": "VESTÍBULO #3"
+          },
+          {
+            "codigo": "0-A-69",
+            "nombre": "ASEO #2"
+          },
+          {
+            "codigo": "0-A-70",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-71",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-72",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-73",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-A-74",
+            "nombre": "SALA DE ESPERA #3"
+          },
+          {
+            "codigo": "0-B-01",
+            "nombre": "JUZGADO MUNICIPAL PENAL #5"
+          }
+        ],
+        "100": [
+          {
+            "codigo": "1-A-01",
+            "nombre": "COCINETA #8"
+          },
+          {
+            "codigo": "1-A-02",
+            "nombre": "CUARTO DE A/A #7"
+          },
+          {
+            "codigo": "1-A-03",
+            "nombre": "VESTÍBULO #6"
+          },
+          {
+            "codigo": "1-A-04",
+            "nombre": "ASEO #9"
+          },
+          {
+            "codigo": "1-A-05",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-06",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-07",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-08",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-09",
+            "nombre": "SISTEMAS ESPECIALES #4"
+          },
+          {
+            "codigo": "1-A-10",
+            "nombre": "CUARTO ELÉCTRICO #4"
+          },
+          {
+            "codigo": "1-A-11",
+            "nombre": "CUARTO DE A/A #8"
+          },
+          {
+            "codigo": "1-A-12",
+            "nombre": "SALÓN DE REUNIONES #2"
+          },
+          {
+            "codigo": "1-A-13",
+            "nombre": "ASISTENTES LEGALES DE CAMPO"
+          },
+          {
+            "codigo": "1-A-14",
+            "nombre": "SECRETARIAS DE ASISTENTES LEGALES DE CAMPO"
+          },
+          {
+            "codigo": "1-A-15",
+            "nombre": "DEPÓSITO #8"
+          },
+          {
+            "codigo": "1-A-16",
+            "nombre": "VESTIDOR"
+          },
+          {
+            "codigo": "1-A-17",
+            "nombre": "VESTIDOR"
+          },
+          {
+            "codigo": "1-A-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "1-A-19",
+            "nombre": "ARCHIVÓLOGO"
+          },
+          {
+            "codigo": "1-A-20",
+            "nombre": "ARCHIVO"
+          },
+          {
+            "codigo": "1-A-21",
+            "nombre": "SALÓN DE REUNIONES #3"
+          },
+          {
+            "codigo": "1-A-22",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-A-23",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-A-24",
+            "nombre": "ADMINISTRADORES"
+          },
+          {
+            "codigo": "1-A-25",
+            "nombre": "SECRETARIA"
+          },
+          {
+            "codigo": "1-A-26",
+            "nombre": "COORDINADOR"
+          },
+          {
+            "codigo": "1-A-27",
+            "nombre": "ADMIN. DE PLATAFORMA"
+          },
+          {
+            "codigo": "1-A-28",
+            "nombre": "CONDUCTORES/MENSAJERÍA"
+          },
+          {
+            "codigo": "1-A-29",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-30",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-31",
+            "nombre": "EQUIPO INTERDISCIPLINARIO"
+          },
+          {
+            "codigo": "1-A-32",
+            "nombre": "DEFENSA PÚBLICA"
+          },
+          {
+            "codigo": "1-A-33",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-34",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-35",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-37",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-38",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-A-39",
+            "nombre": "CIRCULACIÓN DE SALA DE AUDIENCIAS"
+          },
+          {
+            "codigo": "1-A-40",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-A-41",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-A-42",
+            "nombre": "SALA DE AUDIENCIA #10"
+          },
+          {
+            "codigo": "1-A-43",
+            "nombre": "CELDAS #25"
+          },
+          {
+            "codigo": "1-A-44",
+            "nombre": "CELDAS #26"
+          },
+          {
+            "codigo": "1-A-45",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "1-A-46",
+            "nombre": "DEPÓSITO/MANT. #10"
+          },
+          {
+            "codigo": "1-A-47",
+            "nombre": "SALA DE AUDIENCIA #11"
+          },
+          {
+            "codigo": "1-A-48",
+            "nombre": "SALA DE AUDIENCIA #12"
+          },
+          {
+            "codigo": "1-A-49",
+            "nombre": "CELDA #27"
+          },
+          {
+            "codigo": "1-A-50",
+            "nombre": "CELDA #28"
+          },
+          {
+            "codigo": "1-A-51",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "1-A-52",
+            "nombre": "DEPÓSITO/MANT. #11"
+          },
+          {
+            "codigo": "1-A-53",
+            "nombre": "SALA DE AUDIENCIA #13"
+          },
+          {
+            "codigo": "1-A-54",
+            "nombre": "DEFENSORES ASISTENTES"
+          },
+          {
+            "codigo": "1-A-55",
+            "nombre": "IMPRESIÓN"
+          },
+          {
+            "codigo": "1-A-56",
+            "nombre": "RECEPCIONISTAS"
+          },
+          {
+            "codigo": "1-A-57",
+            "nombre": "AREA DE ATENCIÓN"
+          },
+          {
+            "codigo": "1-A-58",
+            "nombre": "SALA DE REUNIONES #1"
+          },
+          {
+            "codigo": "1-A-59",
+            "nombre": "SALA DE REUNIONES #2"
+          },
+          {
+            "codigo": "1-A-60",
+            "nombre": "SALA DE REUNIONES #3"
+          },
+          {
+            "codigo": "1-A-62",
+            "nombre": "SALA DE REUNIONES #5"
+          },
+          {
+            "codigo": "1-A-63",
+            "nombre": "SALA DE REUNIONES #6"
+          },
+          {
+            "codigo": "1-A-64",
+            "nombre": "SALA DE REUNIONES #7"
+          },
+          {
+            "codigo": "1-A-65",
+            "nombre": "SALA DE REUNIONES #8"
+          },
+          {
+            "codigo": "1-A-67",
+            "nombre": "SALA DE ESPERA #6"
+          },
+          {
+            "codigo": "1-A-68",
+            "nombre": "VESTÍBULO #7"
+          },
+          {
+            "codigo": "1-A-69",
+            "nombre": "ASEO #10"
+          },
+          {
+            "codigo": "1-A-70",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-71",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-72",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-73",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-A-74",
+            "nombre": "SALA DE ESPERA #7"
+          }
+        ],
+        "200": [
+          {
+            "codigo": "2-A-01",
+            "nombre": "SALÓN MULTIUSO"
+          },
+          {
+            "codigo": "2-A-02",
+            "nombre": "CUARTO DE A/A #14"
+          },
+          {
+            "codigo": "2-A-03",
+            "nombre": "VESTÍBULO #10"
+          },
+          {
+            "codigo": "2-A-04",
+            "nombre": "ASEO #15"
+          },
+          {
+            "codigo": "2-A-05",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-A-06",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-A-07",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-A-08",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-A-09",
+            "nombre": "SISTEMAS ESPECIALES #7"
+          },
+          {
+            "codigo": "2-A-10",
+            "nombre": "CUARTO ELÉCTRICO #7"
+          },
+          {
+            "codigo": "2-A-11",
+            "nombre": "CUARTO DE A/A #15"
+          },
+          {
+            "codigo": "2-A-12",
+            "nombre": "SALA DE REUNIONES #13"
+          },
+          {
+            "codigo": "2-A-13",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-14",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-15",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-16",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-17",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "2-A-19",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-20",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-21",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-22",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-A-23",
+            "nombre": "SALÓN DE REUNIONES #7"
+          },
+          {
+            "codigo": "2-A-24",
+            "nombre": "SALÓN DE REUNIONES #8"
+          },
+          {
+            "codigo": "2-A-25",
+            "nombre": "COCINETA #12"
+          },
+          {
+            "codigo": "2-A-26",
+            "nombre": "SANITARIO TIPO 16"
+          },
+          {
+            "codigo": "2-A-27",
+            "nombre": "SANITARIO TIPO 16"
+          },
+          {
+            "codigo": "2-A-28",
+            "nombre": "ASEO #16"
+          },
+          {
+            "codigo": "2-A-29",
+            "nombre": "SALÓN DE REUNIONES #9"
+          },
+          {
+            "codigo": "2-A-30",
+            "nombre": "SALA DE CAPACITACIÓN"
+          },
+          {
+            "codigo": "2-A-30",
+            "nombre": "SANITARIO TIPO 15   (mismo código repetido en el plano)"
+          },
+          {
+            "codigo": "2-A-31",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "2-A-32",
+            "nombre": "PAPELERÍA"
+          },
+          {
+            "codigo": "2-A-33",
+            "nombre": "LACTANCIA #4"
+          },
+          {
+            "codigo": "2-A-34",
+            "nombre": "TESTIGO PROTEGIDO #2"
+          },
+          {
+            "codigo": "2-A-34A",
+            "nombre": "ANTESALA TESTIGO PROTEGIDO #2"
+          },
+          {
+            "codigo": "2-A-35",
+            "nombre": "DEPÓSITO #11"
+          },
+          {
+            "codigo": "2-A-36",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-37",
+            "nombre": "FUTURO OFICINA DE GÉNERO"
+          },
+          {
+            "codigo": "2-A-38",
+            "nombre": "COCINETA #13"
+          },
+          {
+            "codigo": "2-A-39",
+            "nombre": "EVIDENCIAS"
+          },
+          {
+            "codigo": "2-A-40",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-41",
+            "nombre": "FUTURO JUZGADO AGRARIO"
+          },
+          {
+            "codigo": "2-A-42",
+            "nombre": "EVIDENCIAS #6"
+          },
+          {
+            "codigo": "2-A-43",
+            "nombre": "ASISTENTE DE JUEZ (ATENCIÓN AL PÚBLICO)"
+          },
+          {
+            "codigo": "2-A-44",
+            "nombre": "TRABAJADORA SOCIAL (NIÑEZ)"
+          },
+          {
+            "codigo": "2-A-45",
+            "nombre": "JUZGADO SECCIONAL DE FAMILIA"
+          },
+          {
+            "codigo": "2-A-46",
+            "nombre": "EVIDENCIAS #7"
+          },
+          {
+            "codigo": "2-A-47",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-48",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-49",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-50",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-51",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-52",
+            "nombre": "EQUIPO INTERDISCIPLINARIO JUZGADO NIÑEZ Y ADOLESCENCIA"
+          },
+          {
+            "codigo": "2-A-53",
+            "nombre": "COCINETA #14"
+          },
+          {
+            "codigo": "2-A-54",
+            "nombre": "EVIDENCIAS #8"
+          },
+          {
+            "codigo": "2-A-55",
+            "nombre": "EVIDENCIAS #9"
+          },
+          {
+            "codigo": "2-A-56",
+            "nombre": "JUZGADO NIÑEZ Y ADOLESCENCIA SECCIÓN PROTECCIÓN"
+          },
+          {
+            "codigo": "2-A-57",
+            "nombre": "JUZGADO NIÑEZ Y ADOLESCENCIA SECCIÓN JUDICIAL"
+          },
+          {
+            "codigo": "2-A-58",
+            "nombre": "EVIDENCIAS #10"
+          },
+          {
+            "codigo": "2-A-59",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-A-60",
+            "nombre": "SALA DE ESPERA #10"
+          },
+          {
+            "codigo": "2-A-61",
+            "nombre": "VESTÍBULO #11"
+          },
+          {
+            "codigo": "2-A-62",
+            "nombre": "ASEO #17"
+          },
+          {
+            "codigo": "2-A-63",
+            "nombre": "SANITARIO TIPO 19"
+          },
+          {
+            "codigo": "2-A-64",
+            "nombre": "SANITARIO TIPO 19"
+          },
+          {
+            "codigo": "2-A-65",
+            "nombre": "SANITARIO TIPO 19"
+          },
+          {
+            "codigo": "2-A-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "2-A-67",
+            "nombre": "SANITARIO TIPO 20 - NIÑOS"
+          },
+          {
+            "codigo": "2-A-68",
+            "nombre": "SANITARIO TIPO 19"
+          },
+          {
+            "codigo": "2-A-69",
+            "nombre": "SALA DE OBSERVACIÓN DE CÁMARA GESELL"
+          },
+          {
+            "codigo": "2-A-70",
+            "nombre": "SALA DE ENTREVISTA DE CÁMARA GESELL"
+          },
+          {
+            "codigo": "2-A-71",
+            "nombre": "SALA DE ESPERA DE NIÑOS"
+          },
+          {
+            "codigo": "2-A-72",
+            "nombre": "SALA DE ESPERA #11"
+          },
+          {
+            "codigo": "2-A-73",
+            "nombre": "SANITARIO TIPO 8"
+          },
+          {
+            "codigo": "2-B-01",
+            "nombre": "JUZGADO SECCIONAL DE FAMILIA SEGUNDO (NUEVO)"
+          }
+        ],
+        "300": [
+          {
+            "codigo": "3-A-01",
+            "nombre": "CUARTO DE MÁQUINAS A1"
+          },
+          {
+            "codigo": "3-A-02",
+            "nombre": "CUARTO DE MÁQUINAS A2"
+          },
+          {
+            "codigo": "3-A-03",
+            "nombre": "CUARTO DE MÁQUINAS A3"
+          },
+          {
+            "codigo": "3-A-04",
+            "nombre": "CUARTO DE MÁQUINAS A4"
+          },
+          {
+            "codigo": "3-A-05",
+            "nombre": "DEP./MANT. #20"
+          },
+          {
+            "codigo": "3-A-06",
+            "nombre": "DEP./MANT. #21"
+          }
+        ]
+      },
+      "escaleras": [
+        "Escalera A1",
+        "Escalera A2",
+        "Escalera A3",
+        "Escalera A4"
+      ]
+    },
+    "B": {
+      "niveles": {
+        "000": [
+          {
+            "codigo": "0-B-38",
+            "nombre": "JEFE DE ALMACÉN"
+          },
+          {
+            "codigo": "0-B-37",
+            "nombre": "ALMACÉN MERCANCIA PEQUEÑA"
+          },
+          {
+            "codigo": "0-B-29",
+            "nombre": "ALMACÉN"
+          },
+          {
+            "codigo": "0-B-36",
+            "nombre": "COCINETA #5"
+          },
+          {
+            "codigo": "0-B-34",
+            "nombre": "BIBLIOTECA"
+          },
+          {
+            "codigo": "0-B-33",
+            "nombre": "PRENSA"
+          },
+          {
+            "codigo": "0-B-32",
+            "nombre": "DEPÓSITO #6"
+          },
+          {
+            "codigo": "0-C-17",
+            "nombre": "ASUNTOS PENITENCIARIOS"
+          },
+          {
+            "codigo": "0-B-06",
+            "nombre": "CUARTO ELÉCTRICO #2"
+          },
+          {
+            "codigo": "0-B-04",
+            "nombre": "SISTEMAS ESPECIALES #2"
+          },
+          {
+            "codigo": "0-B-02",
+            "nombre": "SALA DE LACTANCIA #1"
+          },
+          {
+            "codigo": "0-B-20",
+            "nombre": "JEFE"
+          },
+          {
+            "codigo": "0-B-21",
+            "nombre": "MONITOREO"
+          },
+          {
+            "codigo": "0-B-22",
+            "nombre": "ARMAS"
+          },
+          {
+            "codigo": "0-B-25",
+            "nombre": "SEGURIDAD"
+          },
+          {
+            "codigo": "0-B-23",
+            "nombre": "LOCKERS"
+          },
+          {
+            "codigo": "0-B-17",
+            "nombre": "CCJ"
+          },
+          {
+            "codigo": "0-B-15",
+            "nombre": "DEPÓSITO #4"
+          },
+          {
+            "codigo": "0-B-01",
+            "nombre": "JUZGADO MUNICIPAL PENAL #5"
+          },
+          {
+            "codigo": "0-A-64",
+            "nombre": "EVIDENCIAS #5"
+          },
+          {
+            "codigo": "0-A-60",
+            "nombre": "JUZGADO PRIMERO MUNICIPAL CIVIL #4"
+          },
+          {
+            "codigo": "0-A-65",
+            "nombre": "COCINETA #3"
+          },
+          {
+            "codigo": "0-B-14",
+            "nombre": "REGISTRO ÚNICO DE EXPEDIENTES"
+          },
+          {
+            "codigo": "0-B-12",
+            "nombre": "DEPÓSITO #3"
+          },
+          {
+            "codigo": "0-B-31",
+            "nombre": "DEPÓSITO #5"
+          },
+          {
+            "codigo": "0-B-26",
+            "nombre": "VESTÍBULO DE PERSONAL"
+          },
+          {
+            "codigo": "0-B-27",
+            "nombre": "CUARTO DE A/A #3"
+          },
+          {
+            "codigo": "0-B-11",
+            "nombre": "DEPÓSITO #2"
+          },
+          {
+            "codigo": "0-B-28",
+            "nombre": "CUARTO DE A/A #4"
+          },
+          {
+            "codigo": "0-C-20",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "0-C-19",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "0-B-24",
+            "nombre": "EQUIPOS DE SEGURIDAD #1"
+          },
+          {
+            "codigo": "0-B-16",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "0-B-13",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "0-B-35",
+            "nombre": "COCINETA #4"
+          },
+          {
+            "codigo": "0-B-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "0-B-39",
+            "nombre": "VESTÍBULO DE PUBLICO"
+          },
+          {
+            "codigo": "0-B-05",
+            "nombre": "ASEO #3"
+          },
+          {
+            "codigo": "0-B-03",
+            "nombre": "SANITARIO TIPO 7"
+          },
+          {
+            "codigo": "0-B-09",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-B-07",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-B-10",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-B-08",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-25",
+            "nombre": "SALA DE AUDIENCIA TRIBUNAL COLEGIADO + JURADO DE CONCIENCIA"
+          },
+          {
+            "codigo": "0-B-30",
+            "nombre": "COPIADORA"
+          },
+          {
+            "codigo": "0-B-39",
+            "nombre": "VESTÍBULO DE PÚBLICO"
+          },
+          {
+            "codigo": "0-B-40",
+            "nombre": "MENSAJERÍA #1"
+          },
+          {
+            "codigo": "0-B-41",
+            "nombre": "MONTACARGA"
+          },
+          {
+            "codigo": "0-B-19",
+            "nombre": "CIAC"
+          },
+          {
+            "codigo": "0-B-05",
+            "nombre": "SANITARIO TIPO 7"
+          },
+          {
+            "codigo": "0-B-03",
+            "nombre": "SANITARIO TIPO 6"
+          }
+        ],
+        "100": [
+          {
+            "codigo": "1-B-40",
+            "nombre": "ADMIN. DE PLATAFORMA"
+          },
+          {
+            "codigo": "1-B-43",
+            "nombre": "ESTADISTICA"
+          },
+          {
+            "codigo": "1-B-41",
+            "nombre": "COORDINADORES"
+          },
+          {
+            "codigo": "1-B-44",
+            "nombre": "NOTIFICACIONES"
+          },
+          {
+            "codigo": "1-C-25",
+            "nombre": "SALA DE REUNIONES #12"
+          },
+          {
+            "codigo": "1-B-45",
+            "nombre": "OFICINA JUDICIAL"
+          },
+          {
+            "codigo": "1-C-17",
+            "nombre": "DIRECTOR"
+          },
+          {
+            "codigo": "1-B-05",
+            "nombre": "SALÓN DE TRABAJO"
+          },
+          {
+            "codigo": "1-B-06",
+            "nombre": "SALA DE ESPERA DE MAGISTRADOS"
+          },
+          {
+            "codigo": "1-B-36",
+            "nombre": "EQUIPOS DE SEGURIDAD #2"
+          },
+          {
+            "codigo": "1-B-31",
+            "nombre": "DEFENSORÍA DE OFICIO DE FAMILIA"
+          },
+          {
+            "codigo": "1-B-14",
+            "nombre": "COCINETA #9"
+          },
+          {
+            "codigo": "1-B-15",
+            "nombre": "DEPÓSITO #9"
+          },
+          {
+            "codigo": "1-B-32",
+            "nombre": "MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-50",
+            "nombre": "CUARTO DE A/A #11"
+          },
+          {
+            "codigo": "1-B-38",
+            "nombre": "CUARTO DE A/A #10"
+          },
+          {
+            "codigo": "1-B-37",
+            "nombre": "CUARTO DE A/A #9"
+          },
+          {
+            "codigo": "1-B-01",
+            "nombre": "MANTENIMIENTO/DEPÓSITO #12"
+          },
+          {
+            "codigo": "1-B-17",
+            "nombre": "DEPÓSITO #10"
+          },
+          {
+            "codigo": "1-C-24",
+            "nombre": "SALA DE REUNIONES #11"
+          },
+          {
+            "codigo": "1-B-13",
+            "nombre": "LACTANCIA #2"
+          },
+          {
+            "codigo": "1-B-42",
+            "nombre": "SALÓN DE REUNIONES #4"
+          },
+          {
+            "codigo": "1-A-35",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-36",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-37",
+            "nombre": "DEFENSORES"
+          },
+          {
+            "codigo": "1-A-38",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-C-23",
+            "nombre": "CENTRO DE COPIADO"
+          },
+          {
+            "codigo": "1-B-10",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-B-12",
+            "nombre": "TESTIGO PROTEGIDO #1"
+          },
+          {
+            "codigo": "1-B-12A",
+            "nombre": "ANTESALA TESTIGO PROTEGIDO #1"
+          },
+          {
+            "codigo": "1-B-21",
+            "nombre": "CENTRO DE COPIADO"
+          },
+          {
+            "codigo": "1-B-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "1-B-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "1-B-27",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-22",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-19",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-34",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-30",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-23",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-24",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-16",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-20",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-25",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-26",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-28",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-29",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "1-B-35",
+            "nombre": "SALA DE MEDIACIÓN"
+          },
+          {
+            "codigo": "1-B-08",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-B-09",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-B-11",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-B-02",
+            "nombre": "ASEO #11"
+          },
+          {
+            "codigo": "1-B-46",
+            "nombre": "ASEO #12"
+          },
+          {
+            "codigo": "1-B-47",
+            "nombre": "SANITARIO TIPO 12"
+          },
+          {
+            "codigo": "1-B-48",
+            "nombre": "SANITARIO TIPO 12"
+          },
+          {
+            "codigo": "1-B-51",
+            "nombre": "SANITARIO TIPO 13"
+          },
+          {
+            "codigo": "1-B-52",
+            "nombre": "SANITARIO TIPO 13"
+          },
+          {
+            "codigo": "1-B-53",
+            "nombre": "ZONA DE SERVICIO"
+          },
+          {
+            "codigo": "1-B-49",
+            "nombre": "CAFETERÍA #1"
+          },
+          {
+            "codigo": "1-B-54",
+            "nombre": "COCINA DE CAFETERÍA"
+          },
+          {
+            "codigo": "1-B-55",
+            "nombre": "RECEPCIÓN DE ALIMENTOS"
+          },
+          {
+            "codigo": "1-C-22",
+            "nombre": "SALA DE REUNIONES #10"
+          },
+          {
+            "codigo": "1-C-28",
+            "nombre": "RECEPCIONISTAS"
+          }
+        ],
+        "200": [
+          {
+            "codigo": "2-B-14",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-B-06",
+            "nombre": "ENFERMERÍA"
+          },
+          {
+            "codigo": "2-B-16",
+            "nombre": "TESTIGO PROTEGIDO #3"
+          },
+          {
+            "codigo": "2-B-16A",
+            "nombre": "ANTESALA TESTIGO PROTEGIDO #3"
+          },
+          {
+            "codigo": "2-B-20",
+            "nombre": "JUZGADO PENAL DE ADOLESCENTE"
+          },
+          {
+            "codigo": "2-B-01",
+            "nombre": "JUZGADO SECCIONAL DE FAMILIA SEGUNDO (NUEVO)"
+          },
+          {
+            "codigo": "2-B-24",
+            "nombre": "EQUIPOS DE SEGURIDAD #3"
+          },
+          {
+            "codigo": "2-B-22",
+            "nombre": "DEPÓSITO #12 DE INFORMÁTICA"
+          },
+          {
+            "codigo": "2-B-23",
+            "nombre": "INFORMÁTICA"
+          },
+          {
+            "codigo": "2-B-21",
+            "nombre": "ARCHIVO"
+          },
+          {
+            "codigo": "2-B-19",
+            "nombre": "EVIDENCIAS #11"
+          },
+          {
+            "codigo": "2-B-38",
+            "nombre": "ASISTENTE ADMINISTRATIVA"
+          },
+          {
+            "codigo": "2-B-37",
+            "nombre": "ASISTENCIA ADMINISTRATIVA"
+          },
+          {
+            "codigo": "2-B-34",
+            "nombre": "ADMINISTRACIÓN"
+          },
+          {
+            "codigo": "2-B-33",
+            "nombre": "MANTENIMIENTO Y TRANSPORTE"
+          },
+          {
+            "codigo": "2-B-32",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "2-B-30",
+            "nombre": "COCINETA #16"
+          },
+          {
+            "codigo": "2-B-31",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "2-B-27",
+            "nombre": "RECURSOS HUMANOS"
+          },
+          {
+            "codigo": "2-B-29",
+            "nombre": "SALÓN DE REUNIONES #10"
+          },
+          {
+            "codigo": "2-B-08",
+            "nombre": "SANITARIO TIPO 17"
+          },
+          {
+            "codigo": "2-C-22",
+            "nombre": "INFORMACIÓN #2"
+          },
+          {
+            "codigo": "2-B-28",
+            "nombre": "DIRECTOR"
+          },
+          {
+            "codigo": "2-B-36",
+            "nombre": "PAPELERÍA"
+          },
+          {
+            "codigo": "2-B-39",
+            "nombre": "COCINETA #15"
+          },
+          {
+            "codigo": "2-B-26",
+            "nombre": "CUARTO DE A/A #17"
+          },
+          {
+            "codigo": "2-B-25",
+            "nombre": "CUARTO DE A/A #16"
+          },
+          {
+            "codigo": "2-B-10",
+            "nombre": "ATENCIÓN 2"
+          },
+          {
+            "codigo": "2-B-11",
+            "nombre": "ATENCIÓN 1"
+          },
+          {
+            "codigo": "2-B-09",
+            "nombre": "CONSULTA"
+          },
+          {
+            "codigo": "2-B-07",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "2-B-05",
+            "nombre": "CUARTO ELÉCTRICO #8"
+          },
+          {
+            "codigo": "2-B-04",
+            "nombre": "SISTEMAS ESPECIALES #8"
+          },
+          {
+            "codigo": "2-B-02",
+            "nombre": "MANTENIMIENTO/DEPÓSITO"
+          },
+          {
+            "codigo": "2-B-12",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-A-58",
+            "nombre": "EVIDENCIAS #10"
+          },
+          {
+            "codigo": "2-B-17",
+            "nombre": "LACTANCIA #5"
+          },
+          {
+            "codigo": "2-A-59",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "2-B-15",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-B-13",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-B-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "2-B-03",
+            "nombre": "ASEO #18"
+          },
+          {
+            "codigo": "2-B-41",
+            "nombre": "ASEO #19"
+          },
+          {
+            "codigo": "2-B-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "2-B-44",
+            "nombre": "CUARTO DE A/A #18"
+          },
+          {
+            "codigo": "2-A-69",
+            "nombre": "SALA DE OBSERVACIÓN DE CÁMARA GESELL"
+          },
+          {
+            "codigo": "2-A-71",
+            "nombre": "SALA DE ESPERA DE NIÑOS"
+          },
+          {
+            "codigo": "2-B-45",
+            "nombre": "CAPILLA"
+          },
+          {
+            "codigo": "2-B-43",
+            "nombre": "CAFETERÍA #2"
+          },
+          {
+            "codigo": "2-B-42",
+            "nombre": "SANITARIO TIPO 12"
+          },
+          {
+            "codigo": "2-B-40",
+            "nombre": "SANITARIO TIPO 12"
+          }
+        ]
+      },
+      "escaleras": [
+        "Escalera B1",
+        "Escalera B2",
+        "Escalera B3"
+      ]
+    },
+    "C": {
+      "niveles": {
+        "-100": [
+          {
+            "codigo": "-1-C-01",
+            "nombre": "CUSTODIO"
+          },
+          {
+            "codigo": "-1-C-02",
+            "nombre": "CELDA #5"
+          },
+          {
+            "codigo": "-1-C-03",
+            "nombre": "PASILLO DE CELDAS #3 (MUJERES)"
+          },
+          {
+            "codigo": "-1-C-04",
+            "nombre": "ASEO #8"
+          },
+          {
+            "codigo": "-1-C-06",
+            "nombre": "CELDA #6"
+          },
+          {
+            "codigo": "-1-C-07",
+            "nombre": "MANT. #9"
+          },
+          {
+            "codigo": "-1-C-08",
+            "nombre": "SANITARIO TIPO 2"
+          },
+          {
+            "codigo": "-1-C-09",
+            "nombre": "CELDA #7"
+          },
+          {
+            "codigo": "-1-C-10",
+            "nombre": "PASILLO DE CELDAS #4 (HOMBRES)"
+          },
+          {
+            "codigo": "-1-C-11",
+            "nombre": "CELDA #8"
+          },
+          {
+            "codigo": "-1-C-12",
+            "nombre": "CELDA #9"
+          },
+          {
+            "codigo": "-1-C-13",
+            "nombre": "CELDA #10"
+          },
+          {
+            "codigo": "-1-C-18",
+            "nombre": "CIRCULACIÓN DE DETENIDOS"
+          }
+        ],
+        "000": [
+          {
+            "codigo": "0-C-89",
+            "nombre": "MANT. #7"
+          },
+          {
+            "codigo": "0-C-88",
+            "nombre": "DEP. #7"
+          },
+          {
+            "codigo": "0-C-87",
+            "nombre": "BÓVEDA"
+          },
+          {
+            "codigo": "0-C-86",
+            "nombre": "OFICINA"
+          },
+          {
+            "codigo": "0-C-85",
+            "nombre": "COCINETA #6"
+          },
+          {
+            "codigo": "0-C-84",
+            "nombre": "SECRETARIA"
+          },
+          {
+            "codigo": "0-C-83",
+            "nombre": "SANITARIO TIPO 10"
+          },
+          {
+            "codigo": "0-C-82",
+            "nombre": "SUCURSAL BANCO"
+          },
+          {
+            "codigo": "0-C-81",
+            "nombre": "ATENCIÓN"
+          },
+          {
+            "codigo": "0-C-80",
+            "nombre": "VESTÍBULO #5"
+          },
+          {
+            "codigo": "0-C-79",
+            "nombre": "ASEO #6"
+          },
+          {
+            "codigo": "0-C-78",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-77",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-76",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-75",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-74",
+            "nombre": "SALA DE ESPERA #5"
+          },
+          {
+            "codigo": "0-C-73",
+            "nombre": "SALA DE AUDIENCIA #9"
+          },
+          {
+            "codigo": "0-C-72",
+            "nombre": "DEPÓSITO/MANT. #6"
+          },
+          {
+            "codigo": "0-C-71",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "0-C-70",
+            "nombre": "CELDA #24"
+          },
+          {
+            "codigo": "0-C-69",
+            "nombre": "CELDA #23"
+          },
+          {
+            "codigo": "0-C-68",
+            "nombre": "SALA DE AUDIENCIA #8"
+          },
+          {
+            "codigo": "0-C-67",
+            "nombre": "SALA DE AUDIENCIA #7"
+          },
+          {
+            "codigo": "0-C-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "0-C-65",
+            "nombre": "DEPÓSITO/MANT. #5"
+          },
+          {
+            "codigo": "0-C-64",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "0-C-63",
+            "nombre": "CELDA #22"
+          },
+          {
+            "codigo": "0-C-62",
+            "nombre": "CELDA #21"
+          },
+          {
+            "codigo": "0-C-61",
+            "nombre": "SALA DE AUDIENCIA #6"
+          },
+          {
+            "codigo": "0-C-60",
+            "nombre": "SALA DE AUDIENCIA #5"
+          },
+          {
+            "codigo": "0-C-59",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "0-C-58",
+            "nombre": "CELDA #20"
+          },
+          {
+            "codigo": "0-C-57",
+            "nombre": "CELDA #19"
+          },
+          {
+            "codigo": "0-C-56",
+            "nombre": "RECEPCIÓN #2"
+          },
+          {
+            "codigo": "0-C-55",
+            "nombre": "VESTÍBULO DE DEFENSA DE LA VÍCTIMA"
+          },
+          {
+            "codigo": "0-C-54",
+            "nombre": "SANITARIO TIPO 11"
+          },
+          {
+            "codigo": "0-C-53",
+            "nombre": "ASEO #5"
+          },
+          {
+            "codigo": "0-C-52",
+            "nombre": "SANITARIO TIPO 11"
+          },
+          {
+            "codigo": "0-C-51",
+            "nombre": "SALA DE ENTREVISTAS"
+          },
+          {
+            "codigo": "0-C-50",
+            "nombre": "SALA DE ENTREVISTAS"
+          },
+          {
+            "codigo": "0-C-49",
+            "nombre": "SALA DE ENTREVISTAS"
+          },
+          {
+            "codigo": "0-C-48",
+            "nombre": "SALA DE ENTREVISTAS"
+          },
+          {
+            "codigo": "0-C-47",
+            "nombre": "SALA DE ENTREVISTA DE CÁMARA GESELL"
+          },
+          {
+            "codigo": "0-C-46",
+            "nombre": "SALA DE OBSERVACIÓN DE CÁMARA GESELL"
+          },
+          {
+            "codigo": "0-C-45",
+            "nombre": "EQUIPO INTERDISCIPLINARIO"
+          },
+          {
+            "codigo": "0-C-44",
+            "nombre": "SALÓN DE ESTUDIO"
+          },
+          {
+            "codigo": "0-C-43",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "0-C-42",
+            "nombre": "DEFENSORES Y DEFENSORES ASISTENTES"
+          },
+          {
+            "codigo": "0-C-41",
+            "nombre": "DEFENSOR COORDINADOR"
+          },
+          {
+            "codigo": "0-C-40",
+            "nombre": "SECRETARIAS"
+          },
+          {
+            "codigo": "0-C-39",
+            "nombre": "CIRCULACIÓN DE SALA DE AUDIENCIAS"
+          },
+          {
+            "codigo": "0-C-38",
+            "nombre": "PATIO INTERNO"
+          },
+          {
+            "codigo": "0-C-37",
+            "nombre": "PREP. DE TESTIGO"
+          },
+          {
+            "codigo": "0-C-36",
+            "nombre": "COCINETA #7"
+          },
+          {
+            "codigo": "0-C-35",
+            "nombre": "DEFENSORES Y DEFENSORES ASISTENTES"
+          },
+          {
+            "codigo": "0-C-34",
+            "nombre": "MENSAJERÍA #2"
+          },
+          {
+            "codigo": "0-C-33",
+            "nombre": "SECRETARIA"
+          },
+          {
+            "codigo": "0-C-32",
+            "nombre": "ADMINISTRADOR Y CONTABLE"
+          },
+          {
+            "codigo": "0-C-31",
+            "nombre": "SALA DE VÍCTIMA"
+          },
+          {
+            "codigo": "0-C-30",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "0-C-29",
+            "nombre": "SALÓN DE REUNIONES #1"
+          },
+          {
+            "codigo": "0-C-28",
+            "nombre": "TESTIGO"
+          },
+          {
+            "codigo": "0-C-27",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "0-C-26",
+            "nombre": "INFORMACIÓN #1"
+          },
+          {
+            "codigo": "0-C-25",
+            "nombre": "SALA DE AUDIENCIA TRIBUNAL COLEGIADO + JURADO DE CONCIENCIA"
+          },
+          {
+            "codigo": "0-C-24",
+            "nombre": "SANITARIO TIPO 8"
+          },
+          {
+            "codigo": "0-C-23",
+            "nombre": "TESTIGO"
+          },
+          {
+            "codigo": "0-C-22",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "0-C-21",
+            "nombre": "SALA DE DELIBERACIÓN"
+          },
+          {
+            "codigo": "0-C-21",
+            "nombre": "SALA DE DELIBERACION"
+          },
+          {
+            "codigo": "0-C-20",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "0-C-19",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "0-C-18",
+            "nombre": "(No nombre visible junto a este código en el fragmento)"
+          },
+          {
+            "codigo": "0-C-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "0-C-17",
+            "nombre": "ASUNTOS PENITENCIARIOS"
+          },
+          {
+            "codigo": "0-C-16",
+            "nombre": "LOCUTORIO #3"
+          },
+          {
+            "codigo": "0-C-15",
+            "nombre": "LOCUTORIO #2"
+          },
+          {
+            "codigo": "0-C-14",
+            "nombre": "SANITARIOS TIPO 9"
+          },
+          {
+            "codigo": "0-C-13",
+            "nombre": "LOCUTORIO #1"
+          },
+          {
+            "codigo": "0-C-12",
+            "nombre": "LOCKERS"
+          },
+          {
+            "codigo": "0-C-11",
+            "nombre": "PUESTO DE SEGURIDAD"
+          },
+          {
+            "codigo": "0-C-10",
+            "nombre": "CUARTO DE A/A #6"
+          },
+          {
+            "codigo": "0-C-09",
+            "nombre": "VESTÍBULO #4"
+          },
+          {
+            "codigo": "0-C-08",
+            "nombre": "ASEO #4"
+          },
+          {
+            "codigo": "0-C-07",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-06",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-05",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-04",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "0-C-03",
+            "nombre": "SISTEMAS ESPECIALES #3"
+          },
+          {
+            "codigo": "0-C-02",
+            "nombre": "CUARTO ELÉCTRICO #3"
+          },
+          {
+            "codigo": "0-C-01",
+            "nombre": "CUARTO DE A/A #5"
+          }
+        ],
+        "100": [
+          {
+            "codigo": "1-C-20",
+            "nombre": "ARCHIVÓLOGO"
+          },
+          {
+            "codigo": "1-C-25",
+            "nombre": "SALA DE REUNIONES #12"
+          },
+          {
+            "codigo": "1-C-21",
+            "nombre": "ARCHIVO DE GARANTIA Y CUMPLIMIENTO"
+          },
+          {
+            "codigo": "1-C-19",
+            "nombre": "SECRETARIA"
+          },
+          {
+            "codigo": "1-C-17",
+            "nombre": "DIRECTOR"
+          },
+          {
+            "codigo": "1-C-68",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-16",
+            "nombre": "COCINETA #10"
+          },
+          {
+            "codigo": "1-C-41",
+            "nombre": "LACTANCIA #3"
+          },
+          {
+            "codigo": "1-C-42",
+            "nombre": "COCINETA #11"
+          },
+          {
+            "codigo": "1-C-49",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "1-C-48",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-C-39",
+            "nombre": "CIRCULACIÓN DE SALAS DE AUDIENCIA"
+          },
+          {
+            "codigo": "1-C-27",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-C-26",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-C-01",
+            "nombre": "CUARTO DE A/A #12"
+          },
+          {
+            "codigo": "1-C-03",
+            "nombre": "SISTEMAS ESPECIALES #6"
+          },
+          {
+            "codigo": "1-C-02",
+            "nombre": "CUARTO ELÉCTRICO #6"
+          },
+          {
+            "codigo": "1-C-06",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-08",
+            "nombre": "ASEO #13"
+          },
+          {
+            "codigo": "1-C-09",
+            "nombre": "VESTÍBULO #8"
+          },
+          {
+            "codigo": "1-C-10",
+            "nombre": "CUARTO DE A/A #13"
+          },
+          {
+            "codigo": "1-C-77",
+            "nombre": "SALA DE ESPERA #8"
+          },
+          {
+            "codigo": "1-C-83",
+            "nombre": "VESTÍBULO #9"
+          },
+          {
+            "codigo": "1-C-82",
+            "nombre": "ASEO #14"
+          },
+          {
+            "codigo": "1-C-71",
+            "nombre": "SALA DE AUDIENCIA #18"
+          },
+          {
+            "codigo": "1-C-70",
+            "nombre": "SALA DE AUDIENCIA #17"
+          },
+          {
+            "codigo": "1-C-35",
+            "nombre": "SALA DE AUDIENCIA #16"
+          },
+          {
+            "codigo": "1-C-34",
+            "nombre": "SALA DE AUDIENCIA #15"
+          },
+          {
+            "codigo": "1-C-31",
+            "nombre": "CELDA #30"
+          },
+          {
+            "codigo": "1-C-30",
+            "nombre": "CELDA #29"
+          },
+          {
+            "codigo": "1-C-73",
+            "nombre": "CELDA #34"
+          },
+          {
+            "codigo": "1-C-72",
+            "nombre": "CELDA #33"
+          },
+          {
+            "codigo": "1-C-76",
+            "nombre": "SALA DE AUDIENCIA #19"
+          },
+          {
+            "codigo": "1-C-37",
+            "nombre": "CELDA #32"
+          },
+          {
+            "codigo": "1-C-36",
+            "nombre": "CELDA #31"
+          },
+          {
+            "codigo": "1-C-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "1-C-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "1-C-74",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "1-C-84",
+            "nombre": "SALA DE ESPERA #9"
+          },
+          {
+            "codigo": "1-C-24",
+            "nombre": "SALA DE REUNIONES #11"
+          },
+          {
+            "codigo": "1-C-22",
+            "nombre": "SALA DE REUNIONES #10"
+          },
+          {
+            "codigo": "1-C-65",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-67",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-59",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-56",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-69",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-64",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-63",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-55",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-62",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-58",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-57",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-53",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-54",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-61",
+            "nombre": "SALÓN DE REUNIONES #14"
+          },
+          {
+            "codigo": "1-C-50",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-52",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-51",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-60",
+            "nombre": "SALÓN DE REUNIONES #6"
+          },
+          {
+            "codigo": "1-C-75",
+            "nombre": "DEPÓSITO/MANT. #15"
+          },
+          {
+            "codigo": "1-C-14",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-13",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-12",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-11",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "1-C-23",
+            "nombre": "CENTRO DE COPIADO"
+          },
+          {
+            "codigo": "1-C-15",
+            "nombre": "SALÓN DE REUNIONES #5"
+          },
+          {
+            "codigo": "1-C-43",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "1-C-29",
+            "nombre": "SALA DE AUDIENCIA #14"
+          },
+          {
+            "codigo": "1-C-40",
+            "nombre": "DEPÓSITO/MANT. #14"
+          },
+          {
+            "codigo": "1-C-33",
+            "nombre": "DEPÓSITO/MANT. #13"
+          },
+          {
+            "codigo": "1-C-38",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "1-C-32",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "1-C-46",
+            "nombre": "SANITARIO TIPO 14"
+          },
+          {
+            "codigo": "1-C-47",
+            "nombre": "SANITARIO TIPO 14"
+          },
+          {
+            "codigo": "1-C-45",
+            "nombre": "SANITARIO TIPO 14"
+          },
+          {
+            "codigo": "1-C-81",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-80",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-78",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-79",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-04",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "1-C-05",
+            "nombre": "SANITARIO TIPO 6"
+          }
+        ],
+        "200": [
+          {
+            "codigo": "2-C-01",
+            "nombre": "CUARTO DE A/A #19"
+          },
+          {
+            "codigo": "2-C-02",
+            "nombre": "CUARTO ELÉCTRICO #9"
+          },
+          {
+            "codigo": "2-C-03",
+            "nombre": "SISTEMAS ESPECIALES #9"
+          },
+          {
+            "codigo": "2-C-04",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-05",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-06",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-07",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-08",
+            "nombre": "ASEO #20"
+          },
+          {
+            "codigo": "2-C-09",
+            "nombre": "VESTÍBULO #12"
+          },
+          {
+            "codigo": "2-C-10",
+            "nombre": "CUARTO DE A/A #20"
+          },
+          {
+            "codigo": "2-C-11",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-12",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-13",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-14",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-15",
+            "nombre": "SALÓN DE REUNIONES #11"
+          },
+          {
+            "codigo": "2-C-16",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "2-C-17",
+            "nombre": "TESTIGO"
+          },
+          {
+            "codigo": "2-C-18",
+            "nombre": "CIRCULACIÓN DE PERSONAL"
+          },
+          {
+            "codigo": "2-C-19",
+            "nombre": "SANITARIO TIPO 8"
+          },
+          {
+            "codigo": "2-C-20",
+            "nombre": "SALA DE DELIBERACION"
+          },
+          {
+            "codigo": "2-C-21",
+            "nombre": "SALA DE AUDIENCIA TRIBUNAL COLEGIADO #2 + JURADO DE CONCIENCIA"
+          },
+          {
+            "codigo": "2-C-22",
+            "nombre": "INFORMACIÓN #2"
+          },
+          {
+            "codigo": "2-C-23",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "2-C-24",
+            "nombre": "TESTIGOS"
+          },
+          {
+            "codigo": "2-C-25",
+            "nombre": "SALA DE ESTAR"
+          },
+          {
+            "codigo": "2-C-26",
+            "nombre": "SALÓN DE JUECES"
+          },
+          {
+            "codigo": "2-C-27",
+            "nombre": "CELDA #35"
+          },
+          {
+            "codigo": "2-C-28",
+            "nombre": "CELDA #36"
+          },
+          {
+            "codigo": "2-C-29",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "2-C-30",
+            "nombre": "MANT."
+          },
+          {
+            "codigo": "2-C-31",
+            "nombre": "SALÓN DE REUNIONES #12"
+          },
+          {
+            "codigo": "2-C-32",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "2-C-33",
+            "nombre": "SANITARIO TIPO 8"
+          },
+          {
+            "codigo": "2-C-34",
+            "nombre": "SALA DE DELIBERACION"
+          },
+          {
+            "codigo": "2-C-35",
+            "nombre": "TESTIGO"
+          },
+          {
+            "codigo": "2-C-36",
+            "nombre": "SALA DE AUDIENCIA TRIBUNAL COLEGIADO #3 + JURADO DE CONCIENCIA"
+          },
+          {
+            "codigo": "2-C-37",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "2-C-38",
+            "nombre": "TESTIGOS"
+          },
+          {
+            "codigo": "2-C-39",
+            "nombre": "CIRCULACIÓN ESTÉRIL - SALAS DE AUDIENCIA"
+          },
+          {
+            "codigo": "2-C-40",
+            "nombre": "SALÓN DE JUECES"
+          },
+          {
+            "codigo": "2-C-41",
+            "nombre": "CELDA #37"
+          },
+          {
+            "codigo": "2-C-42",
+            "nombre": "CELDA #38"
+          },
+          {
+            "codigo": "2-C-43",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "2-C-44",
+            "nombre": "MANT."
+          },
+          {
+            "codigo": "2-C-45",
+            "nombre": "LACTANCIA #6"
+          },
+          {
+            "codigo": "2-C-46",
+            "nombre": "ARCHIVOS"
+          },
+          {
+            "codigo": "2-C-47",
+            "nombre": "INSUMOS"
+          },
+          {
+            "codigo": "2-C-48",
+            "nombre": "SANITARIO TIPO 18"
+          },
+          {
+            "codigo": "2-C-49",
+            "nombre": "SANITARIO TIPO 18"
+          },
+          {
+            "codigo": "2-C-50",
+            "nombre": "SALÓN DE REUNIONES #13"
+          },
+          {
+            "codigo": "2-C-51",
+            "nombre": "SALA DE AUDIENCIA TRIBUNAL COLEGIADO #4"
+          },
+          {
+            "codigo": "2-C-52",
+            "nombre": "PERITOS"
+          },
+          {
+            "codigo": "2-C-53",
+            "nombre": "TESTIGO"
+          },
+          {
+            "codigo": "2-C-54",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-55",
+            "nombre": "COCINETA #17"
+          },
+          {
+            "codigo": "2-C-56",
+            "nombre": "CELDA #39"
+          },
+          {
+            "codigo": "2-C-57",
+            "nombre": "CELDA #40"
+          },
+          {
+            "codigo": "2-C-58",
+            "nombre": "SANITARIO TIPO 3"
+          },
+          {
+            "codigo": "2-C-59",
+            "nombre": "MANT."
+          },
+          {
+            "codigo": "2-C-60",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-61",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-62",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-63",
+            "nombre": "OFICINA DE JUEZ"
+          },
+          {
+            "codigo": "2-C-64",
+            "nombre": "SALA DE AUDIENCIA #20"
+          },
+          {
+            "codigo": "2-C-65",
+            "nombre": "SALA DE ESPERA #12"
+          },
+          {
+            "codigo": "2-C-66",
+            "nombre": "CIRCULACIÓN DE PÚBLICO"
+          },
+          {
+            "codigo": "2-C-67",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-68",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-69",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-70",
+            "nombre": "SANITARIO TIPO 6"
+          },
+          {
+            "codigo": "2-C-71",
+            "nombre": "ASEO #21"
+          },
+          {
+            "codigo": "2-C-72",
+            "nombre": "VESTÍBULO #13"
+          },
+          {
+            "codigo": "2-C-73",
+            "nombre": "SALA DE ESPERA #13"
+          }
+        ],
+        "300": [
+          {
+            "codigo": "3-C-01",
+            "nombre": "CUARTO DE MÁQUINAS C1"
+          },
+          {
+            "codigo": "3-C-02",
+            "nombre": "CUARTO DE MÁQUINAS C2"
+          },
+          {
+            "codigo": "3-C-03",
+            "nombre": "CUARTO DE MÁQUINAS C3"
+          },
+          {
+            "codigo": "3-C-04",
+            "nombre": "CUARTO DE MÁQUINAS C4"
+          },
+          {
+            "codigo": "3-C-05",
+            "nombre": "CUARTO DE MÁQUINAS C5"
+          },
+          {
+            "codigo": "3-C-06",
+            "nombre": "DEP./MANT. #22"
+          },
+          {
+            "codigo": "3-C-07",
+            "nombre": "DEP./MANT. #23"
+          }
+        ]
+      },
+      "escaleras": [
+        "Escalera C1",
+        "Escalera C2",
+        "Escalera C3",
+        "Escalera C4",
+        "Escalera C5"
+      ]
+    }
+  },
+  "exteriores": [
+    "Aceras",
+    "Calle/Pavimentos",
+    "Cordones",
+    "Estacionamientos",
+    "Jardinería",
+    "Pintura Exterior",
+    "Plaza Central",
+    "Rampas",
+    "Señalización Vial"
+  ],
+  "exterior": [
+    "Aceras",
+    "Jardinería",
+    "Calle / Pavimentos",
+    "Cordones",
+    "Plaza Central",
+    "Estacionamientos",
+    "Señalización Vial",
+    "Pintura Exterior",
+    "Rampas"
+  ]
+}

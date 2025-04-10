@@ -1,0 +1,281 @@
+/* Navigation Styles */
+.nav-container {
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 0.75rem 0;
+}
+
+.nav-content {
+  position: relative;
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scroll-behavior: smooth;
+  gap: 0.75rem;
+  padding: 0.5rem 1rem;
+}
+
+.nav-button {
+  background-color: #f8f9fa;
+  color: var(--text-color);
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--border-radius);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  transition: all var(--transition-speed) ease;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border: 1px solid var(--border-color);
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.nav-button.active {
+  color: black;
+  border-color: transparent;
+}
+
+.nav-scroll-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  background: #333;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all var(--transition-speed) ease;
+  color: black;
+}
+
+.nav-scroll-button:hover {
+  background-color: var(--bg-color);
+}
+
+.nav-scroll-button.left {
+  left: 0.5rem;
+}
+
+.nav-scroll-button.right {
+  right: 0.5rem;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: var(--spacing-unit);
+  line-height: 1.2;
+}
+
+/* Buttons */
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: var(--border-radius);
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  transition: all var(--transition-speed) ease;
+  background-color: #007bff;
+  color: black;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Forms */
+input, select, textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  transition: border-color var(--transition-speed) ease;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+}
+
+/* Cards and Containers */
+.card {
+  background: white;
+  border-radius: var(--border-radius);
+  padding: var(--spacing-unit);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: var(--spacing-unit);
+}
+
+/* Grid and Flex Layouts */
+.grid {
+  display: grid;
+  gap: var(--spacing-unit);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.flex {
+  display: flex;
+  gap: var(--spacing-unit);
+}
+
+/* Action Buttons */
+.action-buttons {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.action-button {
+  padding: 0.5rem;
+  border-radius: var(--border-radius);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+}
+
+.action-button svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+  :root {
+    --spacing-unit: 0.75rem;
+  }
+
+  button {
+    padding: 0.75rem 1rem;
+  }
+
+  .card {
+    padding: var(--spacing-unit);
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .action-buttons {
+    flex-wrap: wrap;
+  }
+}
+
+/* Print styles */
+@media print {
+  .solo-pantalla {
+    display: none !important;
+  }
+  
+  body {
+    background: white;
+  }
+  
+  .card {
+    box-shadow: none;
+    border: 1px solid #eee;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fadeIn var(--transition-speed) ease;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Styles for CardInformeAmbiente */
+.card-ambiente .action-buttons {
+  margin-left: auto; /* Push buttons to the right */
+}
+
+.card-ambiente .action-button {
+  background-color: #333; /* Dark background for better contrast */
+  color: black;
+}
+
+.card-ambiente .action-button:hover {
+  background-color: #555;
+}
+
+/* Styles for the arrow bubble */
+.arrow-bubble {
+    background-color: #ddd; /* Adjust the background color for better contrast */
+    color: #333; /* Adjust the text color for better contrast */
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Improve contrast for buttons */
+button {
+  background-color: #007bff; /* Change to a more visible color */
+  color: black; /* Ensure text is readable */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darken on hover */
+}
+
+/* Improve contrast for navigation arrows */
+.nav-scroll-button {
+  background-color: #007bff; /* Change to a more visible color */
+  color: black; /* Ensure text is readable */
+}
+
+.nav-scroll-button:hover {
+  background-color: #0056b3; /* Darken on hover */
+}

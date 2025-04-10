@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-04-06T19:20:33.000Z",
+  "projectState": {
+    "elementosInspeccion": {
+      "categorias": [
+        {
+          "id": "paredes",
+          "nombre": "PAREDES",
+          "activo": true,
+          "subelementos": [
+            { "id": "bloqueo", "nombre": "Bloqueo", "activo": true },
+            { "id": "repello", "nombre": "Repello", "activo": true },
+            { "id": "pintura", "nombre": "Pintura", "activo": true }
+          ]
+        },
+        {
+          "id": "ventana",
+          "nombre": "VENTANA",
+          "activo": true,
+          "subelementos": [
+            { "id": "marco", "nombre": "Marco", "activo": true },
+            { "id": "vidrio", "nombre": "Vidrio", "activo": true },
+            { "id": "sello", "nombre": "Sello", "activo": true }
+          ]
+        },
+        {
+          "id": "cielorraso",
+          "nombre": "CIELORRASO",
+          "activo": true,
+          "subelementos": [
+            { "id": "estructura-angulo", "nombre": "Estructura ángulo", "activo": true },
+            { "id": "estructura-reticula", "nombre": "Estructura Retícula", "activo": true },
+            { "id": "laminas", "nombre": "Láminas", "activo": true }
+          ]
+        }
+      ]
+    },
+    "configuracion": {
+      "etiquetas": {
+        "imagenes": {},
+        "comentarios": {},
+        "frecuentes": ["reparar", "revisar", "no terminado", "terminado", "se solicita", "se detecta", "se debe"]
+      },
+      "estiloInforme": {
+        "fontFamily": "Arial",
+        "fontSize": "14px",
+        "lineHeight": 1.5,
+        "firmaNombre": "",
+        "firmaLinea": "",
+        "logo": "",
+        "logoWidth": "200px",
+        "logoAlign": "centro",
+        "firmaModo": "texto",
+        "firmaImagen": "",
+        "colorPrimario": "#007acc",
+        "colorSecundario": "#4CAF50",
+        "colorTexto": "#333333",
+        "colorFondo": "#ffffff",
+        "espaciado": "1rem",
+        "bordeRadius": "4px"
+      },
+      "layoutPresets": {
+        "capturaRapida": {
+          "mostrarPreview": true,
+          "compactMode": false,
+          "imageSize": "medium",
+          "showComments": true,
+          "defaultExpanded": true
+        }
+      }
+    }
+  }
+}
