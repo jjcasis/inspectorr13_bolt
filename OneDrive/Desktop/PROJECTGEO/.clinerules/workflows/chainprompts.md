@@ -1,0 +1,1 @@
+never attempt chained commands. its a waste of time and tokens

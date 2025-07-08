@@ -1,0 +1,1 @@
+siempre leer ROADMAP.md y CHANGELOG.md y actuar en concordancia antes de cualquier tarea.

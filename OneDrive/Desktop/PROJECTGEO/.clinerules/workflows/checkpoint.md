@@ -1,0 +1,1 @@
+Checkpoint Automático tras cambios significativos, generando un JSON en checkpoints/ con metadatos que permitan rollback de ser necesario.
